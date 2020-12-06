@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607269418 source:c:\mystuffs\coding\projects\c\task 9\6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
